@@ -1,0 +1,27 @@
+
+.error {
+    color: #f00;
+}
+
+.success {
+    color: forestgreen;
+}
+
+.event-table {
+
+    width: 100%;
+
+}
+
+.event-table td, .event-table th {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.td-number {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
